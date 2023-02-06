@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+A Golang learner
+
+[blog](https://falldio.github.io/): https://falldio.github.io
+
 <!--
 **Falldio/Falldio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
