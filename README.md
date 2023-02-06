@@ -4,6 +4,8 @@ A Golang learner
 
 [blog](https://falldio.github.io/): https://falldio.github.io
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Falldio&show_icons=true&theme=gruvbox)](https://github.com/Falldio/github-readme-stats)
+
 <!--
 **Falldio/Falldio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
