@@ -1,14 +1,37 @@
-### Hi there 👋
+## Hi there 👋
 
-A Golang learner
+### Who am I?  -> *24601*
++ A newbie Gopher 😶‍🌫️
++ A cat lover 😸
++ A student 🎓 struggling to find a job 🤔
 
-[blog](https://falldio.github.io/): https://falldio.github.io
+### My interests
++ 🐧 Linux
++ Vim / NeoVim
++ Latex
++ Stoicism 🕉️
+
+### Tools I use 🛠️
++ 🐧 Arch Linux
++ Vim / NeoVim
++ Golang (Learning 📚)
++ CPP (Not really good at it, tho 😂)
++ Vue (Tho I hate JS ❌)
+
+### I'm currently working on 🔬
+
+1. A RSS feed reader for desktop (Coming soon!🚀)
+2. LeetCode solutions in Golang
+
+### 📫 How to reach me
+
+I'm currently quitting social media, you know, the digital minimalism stuff. However, you can still find me [here](https://falldio.github.io/) via my blog.
 
 ### ⚙️ GitHub Stats
 <p align="center">
 <a href="https://github.com/Falldio">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Falldio&show_icons=true&theme=gruvbox"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Falldio&layout=compact&theme=gruvbox"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Falldio&show_icons=true&theme=gruvbox"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Falldio&layout=compact&theme=gruvbox"/>
 </a>
 </p>
 
