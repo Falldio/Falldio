@@ -29,7 +29,7 @@
 
 I'm currently quitting social media, you know, the digital minimalism stuff. However, you can still find me [here](https://falldio.github.io/) via my blog.
 
-### ⚙️ GitHub Stats
+### ⚙️ GitHub Stats (Thank [@anuraghazra](https://github.com/anuraghazra) for his wonderful [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats) card)
 <p align="center">
 <a href="https://github.com/Falldio">
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Falldio&show_icons=true&theme=gruvbox&count_private=true"/>
