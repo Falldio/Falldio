@@ -33,7 +33,7 @@ I'm currently quitting social media, you know, the digital minimalism stuff. How
 <p align="center">
 <a href="https://github.com/Falldio">
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Falldio&show_icons=true&theme=gruvbox&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Falldioa&langs_count=6&layout=compact&theme=gruvbox&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Falldio&langs_count=6&layout=compact&theme=gruvbox&count_private=true"/>
 </a>
 </p>
 
