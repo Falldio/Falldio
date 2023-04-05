@@ -23,7 +23,6 @@
 1. A RSS feed reader for desktop (Coming soon!🚀)
 2. LeetCode solutions in Golang
 3. Reading [Writing a Compiler in Go](https://compilerbook.com/)
-4. Reading [Computer Networking: A Top-Down Approach](https://www.amazon.com/Computer-Networking-Top-Down-Approach-7th/dp/0133594149#:~:text=Unique%20among%20computer%20networking%20texts,down%20toward%20the%20physical%20layer%2C)
 
 ### 📫 How to reach me
 
