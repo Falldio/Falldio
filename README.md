@@ -1,31 +1,3 @@
-## Hi there 👋
-
-### Who am I?  -> *24601*
-+ A newbie Gopher 😶‍🌫️
-+ A cat lover 😸
-+ A student 🎓 struggling to find a job 🤔
-
-### My interests
-+ 🐧 Linux
-+ Vim / NeoVim
-+ Latex
-+ Stoicism 🕉️
-
-### Tools I use 🛠️
-+ 🐧 Arch Linux
-+ Vim / NeoVim
-+ Golang (Learning 📚)
-+ CPP (Not really good at it, tho 😂)
-+ Vue (Tho I hate JS ❌)
-
-### I'm currently working on 🔬
-
-1. A RSS feed reader for desktop (Coming soon!🚀)
-2. [Kache](https://github.com/Falldio/Kache), a distributed cache system written in Golang, for learning purpose only.
-
-### 📫 How to reach me
-
-I'm currently quitting social media, you know, the digital minimalism stuff. However, you can still find me [here](https://falldio.github.io/) via my blog.
 
 ### ⚙️ GitHub Stats (Thank [@anuraghazra](https://github.com/anuraghazra) for his wonderful [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats) card)
 <p align="center">
